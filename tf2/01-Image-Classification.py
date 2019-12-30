@@ -3,7 +3,7 @@ from __future__ import absolute_import, division, print_function, unicode_litera
 # Load tensorflow
 
 import tensorflow as tf
-from tensorflow.keras.layers import Conv2D, Flatten, Dense, Dropout
+from tensorflow.keras.layers import Flatten, Dense, Dropout
 
 # Load the data for training and testing
 

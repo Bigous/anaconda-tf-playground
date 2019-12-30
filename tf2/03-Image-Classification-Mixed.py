@@ -23,6 +23,7 @@ model = tf.keras.models.Sequential([
     Conv2D(32, 3, activation='relu'),
     Flatten(),
     Dense(128, activation='relu'),
+    Dropout(0.2),
     Dense(10, activation='softmax')
 ])
 
