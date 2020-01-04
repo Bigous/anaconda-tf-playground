@@ -1,5 +1,5 @@
 {
-		"python.pythonPath": "C:\\Users\\bigou\\Anaconda3\\envs\\tf2-pip\\python.exe",
+		"python.pythonPath": "C:\\Users\\bigou\\Anaconda3\\envs\\tf2-gpu\\python.exe",
 		"cSpell.words": [
 			"Conv",
 			"keras",
